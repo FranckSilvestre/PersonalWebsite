@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Franck Silvestre
 
 # Username (this should match the folder name)
 authors:
@@ -10,50 +10,56 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: IRIT laboratory
+  url: https://www.irit.fr/
+- name: Toulouse 1 Capitole University
+  url: "https://www.ut-capitole.fr/"
+
+
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Technology enhanced learning
+- Computer science education
+- Formative assessment systems
+- Learning theories
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: Toulouse 3 Paul Sabatier University
+    year: 2015
+  - course: Bachelor's degree in Mathematics
+    institution: Toulouse 3 Paul Sabatier University
+    year: 1993
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/francksilvestre
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=cF-FYwMAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/FranckSilvestre
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/franck-silvestre  
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Franck_Silvestre
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +76,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interests include technology enhanced learning and computer science education. I'm more precisly interested in the design of systems that help students to interact when the context makes it hard for example in large classroom or in distance learning (see [Elaastic](https://www.irit.fr/elaastic/) project). The systems I work on facilitate the orchestration by the teacher of pedagogical sequences (see [Elaastic](https://www.irit.fr/elaastic/) and [Git4School](https://git4school.firebaseapp.com/) projects). 
