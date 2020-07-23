@@ -26,7 +26,7 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Technology enhanced learning
+- Technology enhanced learning, learning analytics
 - Computer science education
 - Formative assessment systems
 - Learning theories
@@ -77,4 +77,4 @@ user_groups:
 ---
 
 My research interests include technology enhanced learning and computer science education. I'm more precisly interested in the design of systems that help students to interact when the context makes it hard for example in large classrooms or in distance learning (see [Elaastic](https://www.irit.fr/elaastic/) project). The systems I work on facilitate the orchestration by the teacher of pedagogical sequences (see [Elaastic](https://www.irit.fr/elaastic/) and [Git4School](https://git4school.firebaseapp.com/) projects).  
-The [Elaastic](https://www.irit.fr/elaastic/) platform, since 2013,  has been used by thousand of students to carry out formative evaluations orchestrated by their teachers. We thus collected a lot of data relative to questions asked by teachers, answers given by students, results of peer evaluation and so on. [Git4School](https://git4school.firebaseapp.com/) has been in use for two academic years allowing the collect of data concerning more than three hundred of git student repositories. **Learning analytics** based on the data collected with [Elaastic](https://www.irit.fr/elaastic/) and [Git4School](https://git4school.firebaseapp.com/) are the current "big" work in progress.
+The [Elaastic](https://www.irit.fr/elaastic/) platform, since 2013,  has been used by thousand of students to carry out formative evaluations orchestrated by their teachers. We thus collected a lot of data relative to questions asked by teachers, answers given by students, results of peer evaluation and so on. [Git4School](https://git4school.firebaseapp.com/) has been in use for two academic years allowing the collect of data concerning more than three hundred of git student repositories. Learning analytics based on the data collected with [Elaastic](https://www.irit.fr/elaastic/) and [Git4School](https://git4school.firebaseapp.com/) are the current "big" work in progress.
