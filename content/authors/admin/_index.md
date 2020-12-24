@@ -23,7 +23,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Technology Enhanced Learning, computer science education, formative assessment systems and learning theories.
 
 interests:
 - Technology enhanced learning, learning analytics
