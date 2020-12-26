@@ -9,7 +9,7 @@ tags: [REX, enseignement à distance, teaching design pattern, elaastic]
 categories: [IUT Rodez, enseignement à distance]
 date: 2020-12-24T14:04:27+01:00
 lastmod: 2020-12-24T14:04:27+01:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
