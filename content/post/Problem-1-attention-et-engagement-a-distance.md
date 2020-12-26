@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Problème n°1 - Le manque d'attention et d'engagement à distance ne se détecte pas facilement"
+title: "Enseignement à distance en mode synchrone - Problèmes et éléments de solution"
 subtitle: ""
 summary: ""
 authors: [admin]
@@ -28,15 +28,19 @@ image:
 projects: []
 ---
 
-Depuis le mois de novembre, les étudiant.e.s de l'IUT de Rodez, comme beaucoup d'étudiant.e.s en France et ailleurs, se retrouvent, une fois de plus, à suivre les cours à distance. Ce billet est le premier d'une série présentant un retour d'expérience du point de vue de l'enseignant en informatique que je suis, ayant à dispenser l'ensemble de mes enseignements à distance.
+Depuis le mois de novembre, les étudiant.e.s de l'IUT de Rodez, comme beaucoup d'étudiant.e.s en France et ailleurs, se retrouvent, une fois de plus, à suivre les cours à distance. 
+Les emplois du temps, à tord ou à raison, n'ont pas été modifiés. Les étudiants et enseignants se retrouvent donc à heure fixe, conformément aux horaires prévus dans l'emploi du temps, pour des sessions de visioconférences.
+Ce billet présente un retour d'expérience, de mon expérience (ceci n'est pas un article scientifique !), du point de vue de l'enseignant en informatique que je suis, ayant à dispenser l'ensemble de mes enseignements à distance, dans le contexte exposé.
 
-Le parti-pris de ce retour d'expérience est une présentation point par point des problèmes rencontrés suivi d'une tentative de réponse à chacun de ses problèmes. Un problème, un billet...
+Le parti-pris de ce retour d'expérience est une présentation de deux problèmes rencontrés suivi d'une tentative de réponse à chacun de ses problèmes. La  structure des points abordés s'inspire de l'approche [*Design Pattern*](https://fr.wikipedia.org/wiki/Patron_de_conception) adaptée pour l'enseignement. 
 
-### Le problème
+## Problème n°1 - Le manque d'attention et d'engagement à distance ne se détecte pas facilement
+
+#### Le problème
 
 Pendant que je présente une notion, un nouveau concept, une procédure, etc. via la plateforme de visio-conférence institutionnelle, la plupart des étudiant.e.s sont connecté.e.s en parallèle sur une autre plateforme leur permettant d'échanger, de discuter entre elles.eux. En soi, il ne s'agit pas d'une mauvaise nouvelle de constater que nos étudiant.e.s maintiennent le lien entre elles.eux. Le problème est que cette déclinaison du traditionnel "bavardage" en cours/TD/TP, ne peut faire l'objet d'aucun contrôle à distance : vidéo et micro coupés (même si on demande l'activation de la vidéo, il ya le sacro-saint problème de la bande passante qui fait que la vidéo n'est jamais activée), comment voir et entendre qui discute et à quel moment ?  Les traditionnels petits rappels à l'ordre pendant les cours en présentiel ne font plus sens quand tout se fait à distance.
 
-### Éléments de solution
+#### Éléments de solution
 
 1. Il s'agit d'abord d'attirer l'attention très régulièrment : les micros sondages "Oui/Non"  
 À période très régulière, je demande aux étudiant.e.s, d'utiliser la plateforme institutionnelle pour m'indiquer si ils.elles pensent avoir compris la notion présentée ou si iLs.elles sont à jour dans la procédure décrite. J'exige alors d'utiliser le clic sur un bouton vert (Oui) de la plateforme pour indiquer que tout est *OK*, un clic sur le bouton rouge (Non) si quelque chose pose problème.
@@ -58,4 +62,28 @@ Les micros sondages "Oui/Non" fournissent un indicateur quantitatif à un instan
 
 Les activités menées avec [Elaastic](https://www.irit.fr/elaastic/) permettent d'aller plus loin en terme de mesure qualitative de l'engagement cognitif des apprenants : la visualisation rapide des réponses textuelles pendant ou après que les étudiants aient répondu à la question permettent de distinguer rapidement des réponses baclées ou au contraire des réponses montrant de la réflexion. Le *feedback* associé à une séquence elaastic permet de cibler les étudiants semblant les moins engagés dans l'espoir de les ramener dans un cercle vertueux conduisant à l'apprentissage.  
 L'augmentation de la fréquence d'utilisation de l'outil a conduit à alléger certains contenus. C'est une des limites de l'approche : pour conserver une exigence d'apprentissage en profondeur, et donc une exigence forte en terme d'apprentissage, il faut accepter, si nécessaire, une baisse du périmètre du contenu, tout comme on le fait en informatique, dans le contexte de projets *agiles* pour garantir un niveau de qualité élévé des livrables.
+
+## Problème n°2 - Le silence est roi
+
+#### Le problème
+
+Les étudiant.e.s ne répondent pas spontanément aux questions ouvertes dans une session en grand nombre (20 à 40 présents). Vidéos et micros coupés, cette absence de réponses peut rapidement transformer une session en un étrange monologue de l'enseignant.
+
+#### Éléments de solution
+
+La plateforme de visioconférence utilisée à l'IUT de Rodez permet, à partir de la salle principale accueillant tous les participants de la classe virtuelle, de créer des salles virtuelles isolées les unes des autres. L'enseignant peut créér autant de salle qu'il le souhaite et peut choisir le mode de répartition des étudiant.e.s dans les salles : 
+
+- le mode de répartition aléatoire : la plateforme garantit alors une répartition équilibrée des effectifs, 
+- le mode "affectation par l'enseignant" : c'est donc l'enseignant qui force la répartition des effectifs,
+- le mode "affectation libre" : les étudiant.e.s choisissent librement leur salle d'affectation.
+
+Une fois les étudiant.e.s regroupés en petits effectifs (4 ou 5 maximum, en ce qui me concerne), je peux circuler de salle en salle et sonder les étudiant.e.s via un tour de table où chacun est invité à prendre la parole pour exprimer l'état d'avancement sur un travail ou pour poser des questions sur ce qui nécessiterait clarification.  
+Dans ce contexte, les étudiant.e.s parlent.
+
+#### Contexte d'utilisation optimal et limites
+
+Le dispositif présenté est optimal quand les étudiant.e.s ont un travail à réaliser comme un exercice de TD ou de TP. Il permet de se rapprocher de ce que l'on vit en présentiel durant les séances de TP ou de TD, où il est possible de circuler dans la salle pour suivre la progression des étudant.e.s et interagir avec elles.eux en fonction des travaux observés. Le partage d'écran activé pour tous les participants permet d'avoir accès aux productions de chacun.e.  
+Ces petites salles peuvent susciter la collaboration et l'entraide au sein du groupe, mais pas systématiquement. En effet, nous sommes toujours face à la concurrence déloyale de l'autre plateforme, celles des étudiant.e.s, qui est un autre levier pour l'entraide et la collaboration. Pour que les 2 plateformes ne se fassent pas concurrence, il est donc important, si les travaux demandés sont individuels, de laisser les étudiant.e.s choisir la répartition. Dans le cas contraire, on risque de se retrouver dans une salle désertée par des étudiant.e.s qui sont allés retrouver leurs ami.e.s de travail dans l'autre platforme (c'est du vécu !). Je ne mobilise donc la répartition aléatoire que quand la collaboration/coopération fait partie du travail demandé avec par exemple une solution commune à produire et une restitution du groupe à l'ensemble. C'est une manière de "forcer" les échanges entre des apprenant.e.s qui n'ont pas forcément l'habitude de se cottoyer.
+
+
 
