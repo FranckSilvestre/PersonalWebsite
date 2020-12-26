@@ -40,7 +40,7 @@ Le parti-pris de ce retour d'expérience est une présentation de deux problème
 
 Pendant que je présente une notion, un nouveau concept, une procédure, etc. via la plateforme de visio-conférence institutionnelle, la plupart des étudiant.e.s sont connecté.e.s en parallèle sur une autre plateforme leur permettant d'échanger, de discuter entre elles.eux. En soi, il ne s'agit pas d'une mauvaise nouvelle de constater que nos étudiant.e.s maintiennent le lien entre elles.eux. Le problème est que cette déclinaison du traditionnel "bavardage" en cours/TD/TP, ne peut faire l'objet d'aucun contrôle à distance : vidéo et micro coupés (même si on demande l'activation de la vidéo, il ya le sacro-saint problème de la bande passante qui fait que la vidéo n'est jamais activée), comment voir et entendre qui discute et à quel moment ?  Les traditionnels petits rappels à l'ordre pendant les cours en présentiel ne sont plus opérants.
 
-#### Éléments de solution
+#### Éléments de réponse
 
 1. Il s'agit d'abord d'attirer l'attention très régulièrment : les micros sondages "Oui/Non"  
 À période très régulière, je demande aux étudiant.e.s, d'utiliser la plateforme institutionnelle pour m'indiquer si ils.elles pensent avoir compris la notion présentée ou si ils.elles sont à jour dans la procédure décrite. J'exige alors d'utiliser le clic sur un bouton vert (Oui) de la plateforme pour indiquer que tout est *OK*, un clic sur le bouton rouge (Non) si quelque chose pose problème.
@@ -69,7 +69,7 @@ L'augmentation de la fréquence d'utilisation de l'outil a conduit à alléger c
 
 Les étudiant.e.s ne répondent pas spontanément aux questions ouvertes dans une session en grand nombre (20 à 40 présents). Vidéos et micros coupés, cette absence de réponses peut rapidement transformer une session en un étrange monologue de l'enseignant.
 
-#### Éléments de solution
+#### Éléments de réponse
 
 La plateforme de visioconférence utilisée à l'IUT de Rodez permet, à partir de la salle principale accueillant tous les participants de la classe virtuelle, de créer des salles virtuelles isolées les unes des autres. L'enseignant peut créér autant de salle qu'il le souhaite et peut choisir le mode de répartition des étudiant.e.s dans les salles : 
 
