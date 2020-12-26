@@ -10,7 +10,7 @@ categories: [IUT Rodez, enseignement à distance]
 date: 2020-12-24T14:04:27+01:00
 lastmod: 2020-12-24T14:04:27+01:00
 featured: false
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
