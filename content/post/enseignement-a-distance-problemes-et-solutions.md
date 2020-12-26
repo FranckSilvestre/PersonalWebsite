@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Enseignement à distance en mode synchrone - Problèmes et éléments de solution"
+title: "Enseignement à distance en mode synchrone - Problèmes et éléments de réponse"
 subtitle: ""
 summary: ""
 authors: [admin]
