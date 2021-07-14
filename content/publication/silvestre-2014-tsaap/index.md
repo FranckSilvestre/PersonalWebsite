@@ -1,7 +1,7 @@
 ---
 title: "Tsaap-Notes--An Open Micro-blogging Tool for Collaborative Notetaking during Face-to-Face Lectures"
 date: 2014-01-01
-publishDate: 2020-07-22T16:16:54.017476Z
+publishDate: 2021-07-14T12:44:20.693721Z
 authors: ["Franck Silvestre", "Philippe Vidal", "Julien Broisin"]
 publication_types: ["1"]
 abstract: ""
