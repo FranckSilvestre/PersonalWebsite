@@ -16,7 +16,9 @@ role: Associate Professor
 organizations:
 - name: IRIT laboratory
   url: https://www.irit.fr/
-- name: Toulouse 1 Capitole University
+- name: TALENT team
+  url: https://www.irit.fr/en/departement/dep-interaction-collective-intelligence/talent-team/
+- name: Université Toulouse 1 Capitole
   url: "https://www.ut-capitole.fr/"
 
 
@@ -34,10 +36,10 @@ interests:
 education:
   courses:
   - course: PhD in Computer Science
-    institution: Toulouse 3 Paul Sabatier University
+    institution: Université Toulouse 3 Paul Sabatier
     year: 2015
   - course: Bachelor's degree in Mathematics
-    institution: Toulouse 3 Paul Sabatier University
+    institution: Université Toulouse 3 Paul Sabatier
     year: 1993
 
 # Social/Academic Networking
