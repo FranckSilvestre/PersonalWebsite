@@ -1,7 +1,7 @@
 ---
 title: "Développement dirigé par les tests et revue de code par les pairs pour l'apprentissage de la programmation"
 date: 2018-03-01
-publishDate: 2021-12-07T16:56:33.756266Z
+publishDate: 2021-12-07T17:03:01.324772Z
 authors: ["Franck Silvestre", "Jean-Baptiste Raclet"]
 publication_types: ["1"]
 abstract: ""

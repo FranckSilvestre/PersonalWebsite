@@ -1,7 +1,7 @@
 ---
 title: "Mise en oeuvre d'approches pédagogiques fondées sur des pratiques de l'industrie du logiciel pour l'apprentissage de la programmation"
 date: 2020-02-01
-publishDate: 2021-12-07T16:56:33.758502Z
+publishDate: 2021-12-07T17:03:01.327120Z
 authors: ["Jean-Baptiste Raclet", "Franck Silvestre", "Mika Pons"]
 publication_types: ["1"]
 abstract: ""

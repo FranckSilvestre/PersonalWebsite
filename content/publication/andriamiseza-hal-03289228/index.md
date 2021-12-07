@@ -1,7 +1,7 @@
 ---
 title: "Data-informed Decision-making in TEFA Processes: An Empirical Study of a Process Derived from Peer-Instruction"
 date: 2021-06-01
-publishDate: 2021-12-07T16:56:33.754674Z
+publishDate: 2021-12-07T17:03:01.323848Z
 authors: ["Rialy Andriamiseza", "Franck Silvestre", "Jean-Francois Parmentier", "Julien Broisin"]
 publication_types: ["1"]
 abstract: ""

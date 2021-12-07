@@ -1,7 +1,7 @@
 ---
 title: "Système d'instruction par les pairs étendu pour un usage à distance : illustration avec Tsaap-Notes"
 date: 2017-11-01
-publishDate: 2021-12-07T16:56:33.759901Z
+publishDate: 2021-12-07T17:03:01.328112Z
 authors: ["Franck Silvestre", "Jean-François Parmentier"]
 publication_types: ["1"]
 abstract: ""

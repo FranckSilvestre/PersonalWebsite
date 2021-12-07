@@ -1,7 +1,7 @@
 ---
 title: "Vers la conception de feedback pour enseignants dans un contexte d'évaluation formative à grande échelle : une approche analytique"
 date: 2021-06-01
-publishDate: 2021-12-07T16:56:33.753646Z
+publishDate: 2021-12-07T17:03:01.323173Z
 authors: ["Rialy Andriamiseza", "Franck Silvestre", "Jean-François Parmentier", "Julien Broisin"]
 publication_types: ["1"]
 abstract: ""
