@@ -1,7 +1,7 @@
 ---
 title: "Online tests based on contributions provided by teachers and students during face-to-face lectures"
 date: 2015-07-01
-publishDate: 2021-07-23T15:35:23.134511Z
+publishDate: 2021-12-07T16:56:33.756740Z
 authors: ["Franck Silvestre", "Philippe Vidal", "Julien Broisin"]
 publication_types: ["1"]
 abstract: ""

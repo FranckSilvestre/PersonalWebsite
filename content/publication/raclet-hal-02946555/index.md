@@ -1,7 +1,7 @@
 ---
 title: "Git4School: A Dashboard for Supporting Teacher Interventions in Software Engineering Courses"
 date: 2020-09-01
-publishDate: 2021-07-23T15:35:23.130327Z
+publishDate: 2021-12-07T16:56:33.755489Z
 authors: ["Jean-Baptiste Raclet", "Franck Silvestre"]
 publication_types: ["1"]
 abstract: ""

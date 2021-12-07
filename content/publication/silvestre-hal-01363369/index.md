@@ -1,7 +1,7 @@
 ---
 title: "Reflexive learning, socio-cognitive conflict and peer-assessment to improve the quality of feedbacks in online tests"
 date: 2015-09-01
-publishDate: 2021-07-23T15:35:23.133953Z
+publishDate: 2021-12-07T16:56:33.761540Z
 authors: ["Franck Silvestre", "Philippe Vidal", "Julien Broisin"]
 publication_types: ["1"]
 abstract: ""
