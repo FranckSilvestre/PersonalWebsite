@@ -1,7 +1,7 @@
 ---
 title: "La (dé-)synchronisation des transitions dans un processus d'évaluation formative exécuté à distance : impact sur l'engagement des étudiants"
 date: 2019-06-01
-publishDate: 2021-12-07T17:03:01.321881Z
+publishDate: 2022-07-22T11:07:51.669217Z
 authors: ["Jean-François Parmentier", "Franck Silvestre"]
 publication_types: ["1"]
 abstract: ""

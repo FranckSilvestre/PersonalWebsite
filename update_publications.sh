@@ -1,0 +1,1 @@
+academic import --bibtex data/publications.bib --overwrite

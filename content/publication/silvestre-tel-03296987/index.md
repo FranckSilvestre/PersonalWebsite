@@ -1,7 +1,7 @@
 ---
 title: "Conception et mise en oeuvre d'un système d'évaluation formative pour les cours en face à face dans l'enseignement supérieur"
 date: 2015-11-01
-publishDate: 2021-12-07T17:03:01.326595Z
+publishDate: 2022-07-22T11:07:51.966081Z
 authors: ["Franck Silvestre"]
 publication_types: ["7"]
 abstract: ""

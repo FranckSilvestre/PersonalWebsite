@@ -1,7 +1,7 @@
 ---
 title: "Génération semi-automatique de tests d'auto-évaluation pourvus de feedback résultant de la prise de notes collaborative"
 date: 2014-11-01
-publishDate: 2021-12-07T17:03:01.328773Z
+publishDate: 2022-07-22T11:07:52.066236Z
 authors: ["Franck Silvestre", "Philippe Vidal", "Julien Broisin"]
 publication_types: ["1"]
 abstract: ""
