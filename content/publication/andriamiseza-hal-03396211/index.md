@@ -1,7 +1,7 @@
 ---
 title: "Recommendations for Orchestration of Formative Assessment Sequences: a Data-driven Approach"
 date: 2021-09-01
-publishDate: 2022-07-22T11:07:52.126497Z
+publishDate: 2022-07-22T11:10:30.714458Z
 authors: ["Rialy Andriamiseza", "Franck Silvestre", "Jean-François Parmentier", "Julien Broisin"]
 publication_types: ["1"]
 abstract: ""

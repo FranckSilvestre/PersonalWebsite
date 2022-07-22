@@ -1,7 +1,7 @@
 ---
 title: "Tsaap-Notes : développer et valoriser l'activité des étudiants pendant le cours pour la constitution de feedback dans les évaluations informatisées"
 date: 2017-06-01
-publishDate: 2022-07-22T11:07:52.013095Z
+publishDate: 2022-07-22T11:10:30.614357Z
 authors: ["Franck Silvestre"]
 publication_types: ["1"]
 abstract: ""

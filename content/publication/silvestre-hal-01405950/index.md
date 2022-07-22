@@ -1,7 +1,7 @@
 ---
 title: "Qualification semi-automatique de contributions d'apprenants pour l'intégration de feedbacks de qualité dans les tests en ligne"
 date: 2015-06-01
-publishDate: 2022-07-22T11:07:51.718792Z
+publishDate: 2022-07-22T11:10:30.266074Z
 authors: ["Franck Silvestre", "Philippe Vidal", "Julien Broisin"]
 publication_types: ["1"]
 abstract: ""

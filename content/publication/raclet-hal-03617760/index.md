@@ -1,7 +1,7 @@
 ---
 title: "Git4School : un tableau de bord pour assister la prise de décisions de l'enseignant lors des cours de génie logiciel"
 date: 2021-01-01
-publishDate: 2022-07-22T11:07:52.170548Z
+publishDate: 2022-07-22T11:10:30.721900Z
 authors: ["Jean-Baptiste Raclet", "Franck Silvestre", "Mika Pons"]
 publication_types: ["2"]
 abstract: ""
